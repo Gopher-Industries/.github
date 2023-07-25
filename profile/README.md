@@ -39,6 +39,7 @@ Are you ready to be a part of something extraordinary? Whether you are a coder, 
 ## Let's Connect
 
 - Website: [www.gopherindustries.com](https://www.gopherindustries.com)
-- Email: [info@gopherindustries.com](mailto:info@gopherindustries.com)
+- Email: [gopher@deakin.edu.au](mailto:gopher@deakin.edu.au)
+- - Follow us on [LinkedIn](https://www.linkedin.com/company/gopher-industries)
 
 Welcome to Gopher Industries - Where Health Meets Technology, and Dreams Take Flight! 🚀
