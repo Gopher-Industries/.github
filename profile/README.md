@@ -28,7 +28,16 @@ Our key focus areas include:
 
 ## Join the Movement
 
-Are you ready to be a part of something extraordinary? Whether you are a coder, designer, researcher, or a visionary, your skills and passions have a place with us. Together, let's embark on a journey to change lives, challenge norms, and make a meaningful impact on the world.
+Starting this trimester, Gopher Industries will focus on a few key products to ensure quality and efficiency, putting previous products on hold. These products are categorized as follows:
+
+### Major Products
+
+1. Guardian Activity Monitor
+2. NutriHelp Diet and Nutrition Planner
+
+### Minor/Experimental Product
+
+1. Food Remedy API
 
 ## Let's Connect
 
