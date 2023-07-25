@@ -32,12 +32,12 @@ Starting this trimester, Gopher Industries will focus on a few key products to e
 
 ### Major Products
 
-1. Guardian Activity Monitor
-2. NutriHelp Diet and Nutrition Planner
+- Guardian Activity Monitor
+- NutriHelp Diet and Nutrition Planner
 
 ### Minor/Experimental Product
 
-1. Food Remedy API
+- Food Remedy API
 
 ## Let's Connect
 
