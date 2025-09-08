@@ -41,7 +41,7 @@ Starting this trimester, Gopher Industries will focus on a few key products to e
 
 ## Let's Connect
 
-- Website: [www.gopherindustries.com](https://www.gopherindustries.com)
+- Website: 
 - Email: [gopher@deakin.edu.au](mailto:GopherIndustries@deakin365.onmicrosoft.com)
 - Follow us on [LinkedIn](https://www.linkedin.com/company/gopher-industries)
 
